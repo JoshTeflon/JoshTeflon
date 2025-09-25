@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 🔮 I'm aspiring to:
 - Get into the realm of Game Development.
 - Build my own UI library.
-- Create Fonts and Poster Designs
+- Create Fonts and Poster Designs for fun.
 
 
 
