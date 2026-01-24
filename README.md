@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on:
-- Leading the Frontend team at [SAED Integrated Services](https://www.saed.dev/) in building "Cloud Health" (CLOHEA).
-- An Ecommerce store for a Perfume business with Nextjs and MedusaJS.
+- Part-time Leading the Frontend team at [SAED Integrated Services](https://www.saed.dev/) in building "Cloud Health" (CLOHEA).
+- An Ecommerce store for a Perfume business with Nextjs and Shopify.
 - A creative website for a music artiste [ii6 Pyro](https://ii6pyro.vercel.app/), with Nextjs.
+- Other random projects I play around with.😪
 
 🌱 I’m currently learning:
 - C# and Nodejs to expand on my Backend knowledge and skills.
