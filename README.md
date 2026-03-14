@@ -16,14 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on:
-- Part-time Leading the Frontend team at [SAED Integrated Services](https://www.saed.dev/) in building "Cloud Health" (CLOHEA).
-- An Ecommerce store for a Perfume business with Nextjs and Shopify.
-- A creative web platform for a music artiste [ii6 Pyro](https://ii6pyro.xyz/), with Nextjs.
+- Leading the Frontend team at [SAED Integrated Services](https://www.saed.dev/) in building "Cloud Health" (CLOHEA).
+- An Ecommerce store for a Perfume business with Nextjs and MedusaJS.
 - Other random projects I play around with.😪
-
-🌱 I’m currently learning:
-- C# and Nodejs to expand on my Backend knowledge and skills.
-- The Art of Design and Drawing.
 
 💼 Past Roles & Projects:
 - Frontend Engineer at [Lendsqr](https://lendsqr.com/nigeria).
