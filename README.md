@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 🔭 I’m currently working on:
 - Leading the Frontend team at [SAED Integrated Services](https://www.saed.dev/) in building "Cloud Health" (CLOHEA).
 - An Ecommerce store for a Perfume business with Nextjs and MedusaJS.
-- Other random projects I play around with.😪
+- Building Hashless, a lightweight library for section-based navigation in SPAs without using URL hash fragments.
 
 💼 Past Roles & Projects:
 - Frontend Engineer at [Lendsqr](https://lendsqr.com/nigeria).
 - Frontend Engineer at Identiko, building "Data Cleansing".
-- Software Engineer at AfrihubUK.
+- Software Engineer at Afrimercato.
 
 🔮 I'm aspiring to:
 - Get into the realm of Game Development.
