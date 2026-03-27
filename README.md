@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on:
 - Leading the Frontend team at [SAED Integrated Services](https://www.saed.dev/) in building "Cloud Health" (CLOHEA).
-- An Ecommerce store for a Perfume business with Nextjs and MedusaJS.
 - Building Hashless, a lightweight library for section-based navigation in SPAs without using URL hash fragments.
 
 💼 Past Roles & Projects:
